@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "531484025191",
+    "firebase_url": "https://teachingmanagementsystem-4327a.firebaseio.com",
+    "project_id": "teachingmanagementsystem-4327a",
+    "storage_bucket": "teachingmanagementsystem-4327a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531484025191:android:cf6542f69f1d8bd6",
+        "android_client_info": {
+          "package_name": "com.example.rahhi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531484025191-e7s5dcms95lacuedrl84k0c86b04ta9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahhi.myapplication",
+            "certificate_hash": "10d9074c2ceedacb511c5c27881bb6e7bcb85aaa"
+          }
+        },
+        {
+          "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGShLENrygNnWhet30kSODT-5wQ7oEhoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531484025191:android:41441ded0cc133b6",
+        "android_client_info": {
+          "package_name": "com.example.rahhi.teachingmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531484025191-er756f7pcvncgdftlq4ig8k7j55q537u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahhi.teachingmanagementsystem",
+            "certificate_hash": "10d9074c2ceedacb511c5c27881bb6e7bcb85aaa"
+          }
+        },
+        {
+          "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGShLENrygNnWhet30kSODT-5wQ7oEhoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531484025191:android:a5d5812b46058a63",
+        "android_client_info": {
+          "package_name": "com.example.rahhi.teachingmanagmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531484025191-8iavk9r25253qt2coe4u5hqh8rm4ct8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahhi.teachingmanagmentsystem",
+            "certificate_hash": "10d9074c2ceedacb511c5c27881bb6e7bcb85aaa"
+          }
+        },
+        {
+          "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGShLENrygNnWhet30kSODT-5wQ7oEhoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531484025191:android:8b81dc844549a956",
+        "android_client_info": {
+          "package_name": "com.example.rahhi.uploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531484025191-ll47nj1mblku8ccpo8mef4nskt1c68ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahhi.uploadimage",
+            "certificate_hash": "10d9074c2ceedacb511c5c27881bb6e7bcb85aaa"
+          }
+        },
+        {
+          "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGShLENrygNnWhet30kSODT-5wQ7oEhoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531484025191:android:6d9a37d16819ceed",
+        "android_client_info": {
+          "package_name": "com.example.user.teachingmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531484025191-elrlhqp31tgfdcje02o3u5j7jjkr72g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.teachingmanagementsystem",
+            "certificate_hash": "b6306028fa12e0952c76001086d5e4009554e6c8"
+          }
+        },
+        {
+          "client_id": "531484025191-ojnca5q4l6a4kvl7islvivsh2po4719k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.teachingmanagementsystem",
+            "certificate_hash": "10d9074c2ceedacb511c5c27881bb6e7bcb85aaa"
+          }
+        },
+        {
+          "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGShLENrygNnWhet30kSODT-5wQ7oEhoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531484025191-q7et3rn1ri8882c4fdkg5rcek4f150vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
